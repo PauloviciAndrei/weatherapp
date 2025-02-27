@@ -1,0 +1,13 @@
+.weather-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 10px;
+  width: 250px;
+  text-align: center;
+}
+.weather-info {
+  font-size: 20px;
+}
+.icon {
+  font-size: 40px;
+}
