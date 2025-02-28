@@ -27,4 +27,3 @@ A full-stack **Weather App** built with **Spring Boot (Java)** for the backend a
 - **Spring Web (REST API)**
 - **Jackson** (for JSON serialization)
 - **RestTemplate** (for external API calls)
-- **SLF4J & Logger** (for debugging)
